@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-05-09 17:57:22</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>b50f5bba51a232007f443f5d16fa4fc9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>K17 Lab</sys_name>
